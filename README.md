@@ -1,6 +1,6 @@
 # cypress-extended
 
-Example of Cypress project which is use Playwright or Selenium libraries to extend base functionality
+Example of Cypress project which is used Playwright or Selenium libraries to extend the base functionality
 
 ## Prerequisites
  - `Git` - Download & Install Git. OSX and Linux machines typically have this already installed.
