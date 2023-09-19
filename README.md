@@ -1,5 +1,6 @@
 # cypress-extended
 
+foo 
 Example of Cypress project which is used Playwright or Selenium libraries to extend the base functionality
 
 ## Prerequisites
